@@ -1,7 +1,7 @@
 ---
-name: Bug report
+name: Bug-free- report
 about: Create a report to help us improve
-title: ''
+title: Bug-free-report
 labels: bug, help wanted, question
 assignees: sharonstout1981
 
