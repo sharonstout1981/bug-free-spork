@@ -29,6 +29,9 @@
 
 name: "StackHawk"
 
+permissions:
+  contents: read
+
 on:
   push:
     branches: [ master ]
